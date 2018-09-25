@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+  <dataURLs>
+    <dataURL>https://hdl.handle.net/10411/ODL2KT</dataURL>
+  </dataURLs>
+  <resourceIdentifier>
+    <identifier>ODL2KT</identifier>
+    <currentVersion>1.0</currentVersion>
+  </resourceIdentifier>
+  <doiProposal>10411/ODL2KT</doiProposal>
+  <publicationDate>
+    <date>2018-07-17</date>
+  </publicationDate>
+  <rights>
+    <licenseType>CC0</licenseType>
+    <right>
+      <language>en</language>
+      <freetext>Please mail author / repositor for access; we welcome other scientists to work with our data</freetext>
+    </right>
+  </rights>
+  <availibility>
+    <availibilityType>Download</availibilityType>
+  </availibility>
+  <dataSets>
+    <dataSet>
+      <files>
+        <file>
+          <name>Elburg_bats.R</name>
+          <format>type/x-r-syntax</format>
+          <size>17929</size>
+        </file>
+      </files>
+    </dataSet>
+    <dataSet>
+      <files>
+        <file>
+          <name>ElburgRtestDataSuccFailEM.txt</name>
+          <format>text/plain</format>
+          <size>4663</size>
+        </file>
+      </files>
+    </dataSet>
+    <dataSet>
+      <files>
+        <file>
+          <name>ElburgRtestDataSuccFail.txt</name>
+          <format>text/plain</format>
+          <size>2885</size>
+        </file>
+      </files>
+    </dataSet>
+  </dataSets>
+  <resourceType>Text</resourceType>
+  <descriptions>
+    <description>
+      <language>en</language>
+      <freetext>Replication data for the manuscript No effect of artificial light of different colors on commuting Daubenton's bats (Myotis daubentonii) in a choice experiment, published in the Journal of Experimental Zoology A, DOI: 10.1002/jez.2178</freetext>
+      <descriptionType>Abstract</descriptionType>
+    </description>
+  </descriptions>
+  <titles>
+    <title>
+      <language>en</language>
+      <titleName>Replication Data for: No effect of artificial light of different colors on commuting Daubenton's bats (Myotis daubentonii) in a choice experiment</titleName>
+    </title>
+  </titles>
+  <creators>
+    <creator>
+      <person>
+        <firstName>Spoelstra</firstName>
+        <lastName>Kamiel</lastName>
+        <personIDs>
+          <personID>
+            <identifierURI>https://orcid.org/0000-0001-8614-4387</identifierURI>
+            <identifierSchema>ORCID</identifierSchema>
+          </personID>
+        </personIDs>
+      </person>
+      <institution>
+        <institutionName>NIOO-KNAW</institutionName>
+      </institution>
+    </creator>
+  </creators>
+  <freeKeywords>
+    <freeKeyword>
+      <keywords>
+        <keyword>light polution</keyword>
+        <keyword>Myotis daubentonii</keyword>
+        <keyword>artificial light at night</keyword>
+      </keywords>
+    </freeKeyword>
+  </freeKeywords>
+  <publications>
+    <publication>
+      <unstructuredPublication>
+        <freetext>Spoelstra, K., Ramakers, J. J. C., van Dis, N. E., &amp; Visser, M. E. (2018). No effect of artificial light of different colors on commuting Daubenton’s bats ( Myotis daubentonii ) in a choice experiment. Journal of Experimental Zoology Part A: Ecological and Integrative Physiology. https://doi.org/10.1002/jez.2178</freetext>
+        <PIDs>
+          <PID>
+            <ID>DOI: 10.1002/jez.2178</ID>
+            <pidType>doi</pidType>
+          </PID>
+        </PIDs>
+      </unstructuredPublication>
+    </publication>
+  </publications>
+</resource>
